@@ -1,0 +1,37 @@
+_repo: Cy-Whittaker-s-Place_3281
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Lincoln, Joseph Crosby
+    alias: Lincoln, Joseph C.
+    birthdate: 1870
+    deathdate: 1944
+    gutenberg_agent_id: '810'
+    url: http://www.gutenberg.org/2009/agents/810
+description: Returning to his native Cape Cod village after many years of living at
+  sea, Cy Whittaker finds the old homestead no longer the place of his boyhood. So-called
+  "improvements" have been going on in his absence, and he finds it  all sadly changed.
+  The old man adopts the little daughter of a worthless drunkard, with the intent
+  of giving the child an education. A Congressman from the district, years before,
+  had appropriated property belonging to the child, and he, together with the father,
+  fights to regain possession of the child. The sympathy of the village goes out to
+  the father, but Cy Whittaker and Phoebe Dawes, the school teacher, manage to outwit
+  the Congressman and the drunken father, and in the end the old bachelor and the
+  school mistress fall in love with each other.
+gutenberg_issued: '2006-06-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '3281'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Adoption -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Man-woman relationships -- Fiction'
+- !lcsh 'Massachusetts -- Fiction'
+- !lcsh 'Cape Cod (Mass.) -- Fiction'
+- GITenberg
+title: Cy Whittaker's Place
+url: http://www.gutenberg.org/ebooks/3281
