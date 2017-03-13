@@ -1,5 +1,8 @@
 _repo: Cy-Whittaker-s-Place_3281
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Lincoln, Joseph Crosby
@@ -18,6 +21,8 @@ description: Returning to his native Cape Cod village after many years of living
   the father, but Cy Whittaker and Phoebe Dawes, the school teacher, manage to outwit
   the Congressman and the drunken father, and in the end the old bachelor and the
   school mistress fall in love with each other.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/3281#Cy-Whittaker-s-Place
 gutenberg_issued: '2006-06-03'
 gutenberg_type: Text
 identifiers:
